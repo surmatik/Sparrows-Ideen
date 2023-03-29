@@ -1,10 +1,10 @@
--   Affenfangis
--   Baumfangis (beim Baum ist immer einer Person sicher / wenn eine neue kommt muss der alte wegrennen, am besten man markiert fixe Bäume)
--   Chäferli-Fangis
--   Fangis mit Ballon an den Füssen
--   Päärli-Fangis
--   Kettenfangis
--   Räuber & Gendarm
--   Schattenfangis (auf den Schatten der Person stehen)
--   Törli-Fangis
--   Zombie-Apokalypse (In eher engerem Raum/Areal gespielt, Fänger bewegen sich langsam und/oder humpeln)
+- Affenfangis
+- Baumfangis (beim Baum ist immer einer Person sicher / wenn eine neue kommt muss der alte wegrennen, am besten man markiert fixe Bäume)
+- Chäferli-Fangis
+- Fangis mit Ballon an den Füssen
+- Päärli-Fangis
+- Kettenfangis
+- Räuber & Gendarm
+- Schattenfangis (auf den Schatten der Person stehen)
+- Törli-Fangis
+- Zombie-Apokalypse (In eher engerem Raum/Areal gespielt, Fänger bewegen sich langsam und/oder humpeln)

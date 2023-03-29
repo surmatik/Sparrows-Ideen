@@ -1,2 +1,2 @@
--   Hütte (zB. für Burgervölk)
--   Sauna
+- Hütte (zB. für Burgervölk)
+- Sauna

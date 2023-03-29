@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4ec2b07a6c72fc0c",
+        "id": "b74b2abc1ba21ccd",
         "type": "tabs",
         "children": [
           {
-            "id": "0f9eabdc3cda2ef2",
+            "id": "2407306177370f7e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -138,21 +146,22 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "0f9eabdc3cda2ef2",
+  "active": "2407306177370f7e",
   "lastOpenFiles": [
-    "02_Programm Ideen/Basteln.md",
+    "Methoden Gruppen erstellen.md",
     "02_Programm Ideen/Kochen und Backen.md",
     "02_Programm Ideen/Bauen.md",
+    "02_Programm Ideen/Basteln.md",
     "02_Programm Ideen/Allgemein.md",
     "01_Spiel Ideen/Völks.md",
     "01_Spiel Ideen/Stafetten.md",
     "01_Spiel Ideen/Rätsel.md",
-    "Methoden Gruppen erstellen.md",
-    "02_Programm Ideen",
     "01_Spiel Ideen/Hosensackspiele.md",
     "01_Spiel Ideen/Games IRL.md",
     "01_Spiel Ideen/Fangis.md",
     "01_Spiel Ideen/Allgemein.md",
+    "README.md",
+    "02_Programm Ideen",
     "01_Spiel Ideen"
   ]
 }
