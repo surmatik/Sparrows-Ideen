@@ -1,0 +1,66 @@
+site_name: Sparrows Ideen
+
+nav:
+  - index.md
+  - Spiel-Ideen:
+    - Spiel-Ideen/Allgemein.md
+    - Spiel-Ideen/Fangis.md
+    - Spiel-Ideen/Games-IRL.md
+    - Spiel-Ideen/Hosensackspiele.md
+    - Spiel-Ideen/Raetsel.md
+    - Spiel-Ideen/Stafetten.md
+    - Spiel-Ideen/Voelks.md
+  - Programm-Ideen:
+    - Programm-Ideen/Allgemein.md
+    - Programm-Ideen/Basteln.md
+    - Programm-Ideen/Bauen.md
+    - Programm-Ideen/Kochen-und-Backen.md
+
+
+theme:
+  name: material
+  logo: assets/sparrows.png
+  favicon: assets/sparrows.png
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: de
+  palette:
+    primary: green
+    accent: lime
+
+extra:
+  social:
+    - icon: fontawesome/solid/globe
+      link: https://cevi-wetzikon.ch/
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/cevi.wetzikon/
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/ceviwetzikon
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+copyright: |
+  &copy; 2023 Cevi Wetzikon - Tweet & Shark
