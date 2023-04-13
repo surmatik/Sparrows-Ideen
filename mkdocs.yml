@@ -34,7 +34,7 @@ theme:
   language: de
   palette:
     primary: green 
-    accent: lime
+    accent: green
 
 extra:
   social:

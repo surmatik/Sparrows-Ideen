@@ -1,4 +1,7 @@
-# Home
+---
+title: Home 
+---
+#
 
 <img src="assets/sparrows.png" width="200px">
 
@@ -17,3 +20,14 @@ Tweet & Shark
 | [Rätsel](Spiel-Ideen/Raetsel/) |
 | [Stafetten](Spiel-Ideen/Stafetten/) |
 | [Völks](Spiel-Ideen/Voelks/) |
+
+
+<style>
+    .md-typeset__table {
+        min-width: 100%;
+    }
+
+    .md-typeset table:not([class]) {
+        display: table;
+    }
+</style>
