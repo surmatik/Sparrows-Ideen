@@ -19,7 +19,7 @@ nav:
 
 theme:
   name: material
-  logo: assets/sparrows.png
+  logo: assets/cevi-wet.png
   favicon: assets/sparrows.png
   features:
     - navigation.tabs
@@ -33,7 +33,7 @@ theme:
     - content.code.copy
   language: de
   palette:
-    primary: green
+    primary: green 
     accent: lime
 
 extra:
