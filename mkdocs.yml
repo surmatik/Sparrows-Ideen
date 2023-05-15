@@ -15,6 +15,7 @@ nav:
     - Programm-Ideen/Basteln.md
     - Programm-Ideen/Bauen.md
     - Programm-Ideen/Kochen-und-Backen.md
+  - Bloecke/index.md
 
 
 theme:
@@ -44,6 +45,8 @@ extra:
       link: https://www.instagram.com/cevi.wetzikon/
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/ceviwetzikon
+
+
 
 markdown_extensions:
   - pymdownx.highlight:
