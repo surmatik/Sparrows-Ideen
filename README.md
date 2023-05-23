@@ -1,5 +1,7 @@
 # Sparrows-Ideen
-Sparrows Ideen ist die die Ideensammlung der Stufe Sparrows - Cevi Wetzikon. Sie basiert auf [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) und der Inhalt auf Markdown Files die mit Obsidian bearbeitet werden.
+
+Sparrows Ideen ist die die Ideensammlung der Stufe Sparrows - Cevi Wetzikon. Sie basiert auf [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) und der Inhalt auf Markdown Files die mit [Obsidian](https://obsidian.md/) bearbeitet werden.
+
 
 ## Projekt Lokal öffnen
 Das Projekt kann lokal mit Venv geöffnet werden.
@@ -21,10 +23,10 @@ Das Projekt kann lokal mit Venv geöffnet werden.
    mkdocs serve
    ```
 
+
 ## Mkdocs Ordnerstruktur
 Konfiguriert die die Webseite über `mkdocs.yml`. Die Navigation wir darin unter `nav` konfiguriert.
 ```yaml
-nav:
 nav:
   - index.md
   - Spiel-Ideen:
@@ -32,3 +34,7 @@ nav:
   - Programm-Ideen:
     - Unterkategorien ...
 ```
+
+
+## Deployment
+Bei einem Push in den `Main` Branch wird die seite automatisch via dem [Github Automation ci.yml](https://github.com/surmatik/Sparrows-Ideen/blob/main/.github/workflows/ci.yml) auf Github Pages mit der CNAME parrows-ideen.linoo.ch deployed.
