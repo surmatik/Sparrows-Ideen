@@ -2,6 +2,9 @@
 
 Sparrows Ideen ist die die Ideensammlung der Stufe Sparrows - Cevi Wetzikon. Sie basiert auf [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) und der Inhalt auf Markdown Files die mit [Obsidian](https://obsidian.md/) bearbeitet werden.
 
+<img src="./docs/assets/screenshot_webseite.png" alt="image-20230417080309023" style="width: 600px" />
+
+Webseite unter: https://sparrows-ideen.linoo.ch/
 
 ## Projekt Lokal öffnen
 Das Projekt kann lokal mit Venv geöffnet werden.
