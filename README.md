@@ -14,7 +14,7 @@ Das Projekt kann lokal mit Venv geöffnet werden.
 
 1. GitHub Projekt [Surmatik/Sparrows-Ideen](https://github.com/surmatik/Sparrows-Ideen.git)klonen via Github Desktop oder
    ```sh
-   https://github.com/surmatik/Sparrows-Ideen.git
+   git clone https://github.com/surmatik/Sparrows-Ideen.git
    ```
 2. Aktivieren der virtuellen Umgebung
    ```Powershell
