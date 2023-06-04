@@ -16,7 +16,7 @@ Tweet & Shark
 | [Fangis](Spiel-Ideen/Fangis/) | [Basteln](Programm-Ideen/Basteln/) |
 | [Games IRL](Spiel-Ideen/Games-IRL/) | [Bauen](Programm-Ideen/Bauen/) |
 | [Hosensackspiele](Spiel-Ideen/Hosensackspiele/) | [Kochen und Backen](Programm-Ideen/Kochen-und-Backen/) |
-| [Rätsel](Spiel-Ideen/Raetsel/) |
+| [Rätsel](Spiel-Ideen/Raetsel/) | [Lernen](Programm-Ideen/Lernen/)
 | [Stafetten](Spiel-Ideen/Stafetten/) |
 | [Völks](Spiel-Ideen/Voelks/) |
 
