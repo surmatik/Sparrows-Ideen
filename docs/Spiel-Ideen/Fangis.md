@@ -8,3 +8,5 @@
 - Schattenfangis (auf den Schatten der Person stehen)
 - Törli-Fangis
 - Zombie-Apokalypse (In eher engerem Raum/Areal gespielt, Fänger bewegen sich langsam und/oder humpeln)
+- GPS Fangis <br>
+  Auf der Webseite [fangis.linoo.ch](https://fangis.linoo.ch/) können sich alle einloggen und sehen wie viele Meter sie von den anderen entfernt sind, so können sie sich fangen.

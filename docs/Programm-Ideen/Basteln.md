@@ -1,8 +1,11 @@
+# Basteln
+
 - Bogen basteln & schiessen ([Referenz-Artikel](https://www.mamagie.de/2019/05/14/diy-dienstag-pfeil-und-bogen/))
 - Fimo Figuren
 - Fimo Besteck
 - Papier Flieger ([Referenz-Artikel](https://kidactivities.net/paper-airplane-game-for-kids/))
-- Papierrakete (mit Ständer und Pet Flasche)
+- Papierrakete (mit Ständer und Pet Flasche) <br>
+  Block Hela22 Sparrows: [Hela22-LP-5-1-Papierrakete.pdf](../assets/Hela22-LP-5-1-Papierrakete.pdf)
 - Wasserfilter
 - Wasserrakete
 - Steinschleuder bauen
@@ -10,11 +13,19 @@
 - Karton Dino Kopf ([Referenz Artikel](https://www.zygotebrowndesigns.com/post/dinosaur?epik=dj0yJnU9V01KY2hGeUFaa1lNbGNHdlRNenp5a2VYQ0F4enlBVFEmcD0wJm49Q1I5MVIyRUxudkVVMFdFbzk2ZklpQSZ0PUFBQUFBR1B5RWM4), [Pinterest Bild](https://www.pinterest.de/pin/822469950726236143/))
 - Papierrakete
 - Flugspeer ([Referenz-Artikel](https://www.familie.de/diy/flugspeer-basteln/))
-- Intercorss Schäger ([YouTube Video](https://youtu.be/3FXUcbrGHfU))
-- Schläger mit Gummis ([YouTube Video](https://youtu.be/jMMoHXzIE8s))
+- Intercorss Schäger ([YouTube Video](https://youtu.be/3FXUcbrGHfU)) <br>
+  Block Pfila23 Sparrows: [Pfila23-135-LS-Intercrosse.pdf](../assets/Pfila23-135-LS-Intercrosse.pdf)
+- Schläger mit Gummis ([YouTube Video](https://youtu.be/jMMoHXzIE8s)) <br>
+  Beispiel Bild: [Schlaeger-mit-Gummis.jpg](../assets/Schlaeger-mit-Gummis.jpg)
 - Ping Pong Schläger
+- Mini Golf (Gold Schläger bauen, selber Mini Gold Anlage mit Hindernissen bauen)
+- Spiel Karten (Zeichnen)
+- freie Erfindung (zB. zu gewissen Materialien / zu einem Thema)
+- Spielbrett (Spiel selber erfinden)
+- Pfeilbogen
+- Frisbee
 
-Schnitzen
+## Schnitzen
 
 Sicherheitshinweise Schnitzen mit Kindern: [https://www.jugendleiter-blog.de/2018/06/10/schnitzen-kinder/](https://www.jugendleiter-blog.de/2018/06/10/schnitzen-kinder/)
 

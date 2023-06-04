@@ -30,8 +30,3 @@ Tweet & Shark
         display: table;
     }
 </style>
-
-## Sparrows Tools
-Trello: [trello.com/w/sparrows/home](https://trello.com/w/sparrows/home) <br>
-GPS-Fangis: [fangis.linoo.ch](https://fangis.linoo.ch/) <br>
-Erste Hilfe: [erste-hilfe.linoo.ch](https://erste-hilfe.linoo.ch/)

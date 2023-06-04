@@ -5,6 +5,7 @@ nav:
   - Spiel-Ideen:
     - Spiel-Ideen/Allgemein.md
     - Spiel-Ideen/Fangis.md
+    - Spiel-Ideen/Fussball.md
     - Spiel-Ideen/Games-IRL.md
     - Spiel-Ideen/Hosensackspiele.md
     - Spiel-Ideen/Raetsel.md
@@ -15,6 +16,7 @@ nav:
     - Programm-Ideen/Basteln.md
     - Programm-Ideen/Bauen.md
     - Programm-Ideen/Kochen-und-Backen.md
+    - Programm-Ideen/Lernen.md
 
 
 theme:

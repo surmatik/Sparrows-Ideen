@@ -1,5 +1,5 @@
 - Baseball
-- Bier-Pong (Natürlich ohne Bier/Alkohol😉)
+- Bier-Pong (Natürlich ohne Bier/Alkohol😉 / in gross mit Softbälle mit Challanges und Bestraffungen)
 - Bildertelefon (Die Bilderklärung wird weitergegeben und am Schluss muss man das richtige Bild auswählen)
 - Blachen Volleyball
 - Blachenmattenlauf
@@ -7,12 +7,6 @@
 - Boccia
 - Burgervölk im Wald
 - Frisbee (Ultimate Frisbee, Frisbee Golf)
-- Fussball
-- mit zusammengebunden Füssen
-- Blindes Fussball (in 2er Teams und einer muss den anderen Führen)
-- Sparrfussball (ein Goal in der Mitte und jedes Teams bekommt eine Richtung)
-- Kreisfussball (man muss den Ball
-- Würfel-Fussball
 - Jäger & Kaninchen (2 Gruppen, Jägergruppe muss die “Kaninchen” mit einem Ball abschiessen)
 - Kinder erraten (sich gegenseitig Bild abtasten)
 - Loch mit Bällen treffen ([Referenz-Artikel](https://mamakreativ.com/bunte-sommerparty-fuer-kinder-10-schnelle-und-einfache-ideen/))
@@ -24,6 +18,7 @@
 - Schwertkampf mit Schwimmnudeln (Z.B. Fechten)
 - Barfussweg
 - Stehender Stock Game ([Referenz Artikel](https://www.raisingdragons.com/standing-pool-noodle-game/))
+- Bline Person Steuern (Eine Person im Spielfeld blind, eine Person nach aussen gerichtet sagt der Person im Spielfeld wohin, eine Person gibt der Person die sagt ohne Ton Anweissungen zB. via stossen oder Arme)
 
 ## Inspirations Links
 [https://www.pinterest.de/pin/68744297465/](https://www.pinterest.de/pin/68744297465/)
