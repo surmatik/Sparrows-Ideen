@@ -87,5 +87,4 @@ plugins:
   - git-committers:
       repository: squidfunk/mkdocs-material
       branch: main
-      enabled: !ENV [CI, false]
   - git-authors
