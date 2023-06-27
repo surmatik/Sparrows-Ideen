@@ -33,10 +33,14 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+    - content.action.edit
   language: de
   palette:
-    primary: green 
-    accent: green
+    - scheme: slate
+      primary: green
+      accent: indigo
+  icon:
+    repo: fontawesome/brands/github
 
 extra:
   social:
@@ -68,3 +72,20 @@ markdown_extensions:
 
 copyright: |
   &copy; 2023 Cevi Wetzikon - Tweet & Shark
+
+repo_url: https://github.com/surmatik/Sparrows-Ideen
+repo_name: surmatik/Sparrows-Ideen
+edit_uri: edit/main/docs/
+
+
+plugins:
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: date
+      fallback_to_build_date: true
+  - git-authors
+  - git-committers:
+      repository: squidfunk/mkdocs-material
+      branch: main
+      enabled: !ENV [CI, false]
+  - git-authors
