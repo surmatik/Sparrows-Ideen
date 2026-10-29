@@ -8,6 +8,6 @@
     "docs:preview": "vitepress preview docs"
   },
   "dependencies": {
-    "firebase-tools": "^12.4.2"
+    "firebase-tools": "^15.34.2"
   }
 }
